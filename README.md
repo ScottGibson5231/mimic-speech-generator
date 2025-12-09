@@ -2,6 +2,10 @@
 
 A TypeScript command-line application that takes user input, splits it into random chunks, and converts each chunk to speech using different Google Cloud Text-to-Speech voices, then combines them into a single audio file.
 
+The inspiration for this project came from how Bumblebee speaks in the Transformers movies. He switches between different radio stations to create a mash-up sentence.
+
+I intend to use this for a D&D character idea, which is a Kenku who only uses mimmicked speech from different people they have listened to to form sentences.
+
 ## Features
 
 - Interactive command-line interface

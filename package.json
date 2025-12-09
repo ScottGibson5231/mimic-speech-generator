@@ -1,0 +1,24 @@
+{
+  "name": "cli-input-project",
+  "version": "1.0.0",
+  "description": "A simple TypeScript CLI project that accepts user input",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["cli", "typescript"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "readline": "^1.3.0",
+    "@google-cloud/text-to-speech": "^5.0.0"
+  }
+}
+

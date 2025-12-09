@@ -10,7 +10,7 @@ I intend to use this for a D&D character idea, which is a Kenku who only uses mi
 
 - Interactive command-line interface
 - Random text chunking (1-10 words per chunk)
-- Multiple voice rotation (uses 5 different Neural2 voices)
+- Multiple voice rotation (uses different voices)
 - Automatic audio combining
 - Saves output as WAV file
 
